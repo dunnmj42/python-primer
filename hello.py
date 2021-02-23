@@ -6,7 +6,7 @@ print(msg)
 name = "Mike"
 print("Hello", name)
 
-# Python indentation specificity == 4 spaces
+# Python indentation specificity == 4 spaces 
 x = 1
 if x == 1:
     # indented 4 spaces
@@ -96,7 +96,7 @@ print([1, 2, 3] * 3)
 x = object()
 y = object()
 
-# TODO: change this code
+# Challenge Example
 x_list = [x] * 10
 y_list = [y] * 10
 big_list = x_list + y_list
