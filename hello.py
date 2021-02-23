@@ -241,7 +241,7 @@ if x == 2:
 else:
     print("x does not equal to two.")
 
-# A statement is evaulated as true if one of the following is correct:
+# A statement is evaluated as true if one of the following is correct:
 # 1. The "True" boolean variable is given, or calculated using an expression,
 # such as an arithmetic comparison.
 # 2. An object which is not considered "empty" is passed.
