@@ -21,7 +21,7 @@
 
 ## Language Basics and examples
 
-[See hello.py](./hello.py) for some basic examples and a brief primer on Python
+See [hello.py](./hello.py) for some basic examples and a brief primer on Python
 
 ## Other Resources
 
